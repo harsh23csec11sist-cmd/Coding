@@ -1,5 +1,6 @@
-#include <stdbool.h>
 
+#include <stdbool.h>
+#include <stdlib.h>
 struct ListNode {
     int val;
     struct ListNode *next;
